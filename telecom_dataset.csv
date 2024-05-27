@@ -1,4 +1,4 @@
-state,account length,area code,phone number,international plan,voice mail plan,number vmail messages,total day minutes,total day calls,Predicted total day calls,total day charge,total eve minutes,total eve calls,total eve charge,total night minutes,total night calls,total night charge,total intl minutes,total intl calls,total intl charge,customer service calls,churn
+state,account_length,area_code,phone_number,international_plan,voice_mail plan,number_vmail messages,total_day minutes,total_day calls,Predicted_total_day_calls,total_day_charge,total_eve minutes,total_eve_calls,total_eve_charge,total_night_minutes,total_night calls,total_night_charge,total_intl_minutes,total_intl calls,total_intl charge,customer_service_calls,churn
 KS,128,415,382-4657,no,yes,25,265.1,110,100,45.07,197.4,99,16.78,244.7,91,11.01,10,3,2.7,1,FALSE
 OH,107,415,371-7191,no,yes,26,161.6,123,125,27.47,195.5,103,16.62,254.4,103,11.45,13.7,3,3.7,1,FALSE
 NJ,137,415,358-1921,no,no,0,243.4,114,113,41.38,121.2,110,10.3,162.6,104,7.32,12.2,5,3.29,0,FALSE
